@@ -1,3 +1,4 @@
+//Checking Api response
 const options = {
     method: 'GET',
     headers: {
