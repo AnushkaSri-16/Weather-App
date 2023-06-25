@@ -1,4 +1,4 @@
-//Checking Api response
+//Checking Api response for Weather API by api ninjas
 const options = {
     method: 'GET',
     headers: {
